@@ -5,7 +5,7 @@
 
 Observações:
 
-É necessário realizar login para visualização do CRUD:
+- É necessário realizar login para visualização do CRUD:
 - Usuário: admin@admin.com
 - Senha: password
 - Caso necessário, o Backup do banco está disponível em backup/voyager_m2.sql
